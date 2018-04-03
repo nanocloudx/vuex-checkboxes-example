@@ -1,0 +1,23 @@
+{
+  "name": "vuex-checkboxes-example",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": {
+    "name" : "nanocloudx",
+    "email" : "nanocloudx@gmail.com",
+    "url" : "https://sugarbeats.io/"
+  },
+  "scripts": {
+    "serve": "vue-cli-service serve --open",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "vue": "^2.5.13",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.0.0-beta.6",
+    "@vue/cli-service": "^3.0.0-beta.6",
+    "vue-template-compiler": "^2.5.13"
+  }
+}
